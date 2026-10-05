@@ -1,4 +1,5 @@
 # Fashion-MNIST Classification with PyTorch
+[English](README.md) | [中文](README_zh.md)
 
 A small PyTorch image-classification project built on the Fashion-MNIST dataset.
 

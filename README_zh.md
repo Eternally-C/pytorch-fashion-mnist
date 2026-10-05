@@ -1,4 +1,5 @@
 # 基于 PyTorch 的 Fashion-MNIST 图像分类项目
+[English](README.md) | [中文](README_zh.md)
 
 这是一个基于 PyTorch 实现的 Fashion-MNIST 图像分类项目。
 
