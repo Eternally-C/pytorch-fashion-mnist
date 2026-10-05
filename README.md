@@ -84,6 +84,8 @@ pytorch_fashion_mnist/
 ├── evaluation.py
 ├── requirements.txt
 ├── README.md
+├── README_zh.md
+├── LICENSE
 ├── .gitignore
 └── results/
     ├── mlp_training_history.json
@@ -232,3 +234,7 @@ Validation Macro-F1: 0.8556532774
 Test accuracy: 0.8466
 Test Macro-F1: 0.8462483930
 ```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
